@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: 123
+subtitle: 456
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -14,12 +14,10 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
+    - text: Test
+      url : /test
 
 
 # Edit Author details (For multi authors check _data/authors.yml)
